@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1766526696948,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1773241529449,
+          "title": "Department View",
+          "options": {
+            "collapse-filter": false,
+            "search": "",
+            "showTags": false,
+            "showAttachments": true,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "path:\"CSUN EE Bachelors Degree/ECE Courses\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 57855
+                }
+              }
+            ],
+            "collapse-display": false,
+            "showArrow": false,
+            "textFadeMultiplier": 0.3,
+            "nodeSizeMultiplier": 1.14273356401384,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 0.5545588484606028,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1766526629330,
+          "title": "Clean Up - Dirty vs. Clean Node",
+          "options": {
+            "collapse-filter": false,
+            "search": "",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "tag:#Dirty  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14701138
+                }
+              },
+              {
+                "query": "tag:#Clean  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 3669760
+                }
+              },
+              {
+                "query": "tag:#Cleaned  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 3669760
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 1.2188588509442304,
+            "close": false
+          }
+        }
+      ],
+      "title": "Node Visibilities"
+    }
+  ]
+}

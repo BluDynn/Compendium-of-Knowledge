@@ -1,0 +1,25 @@
+/* =========================
+   Main notes panel: darker + more blur
+   ========================= */
+
+.workspace-leaf-content[data-type="markdown"] .view-content {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+
+  /* darker glass base */
+  background: rgba(0, 0, 0, 0.60) !important;
+
+  /* stronger blur than rest of UI */
+  backdrop-filter: blur(18px) saturate(120%) !important;
+  -webkit-backdrop-filter: blur(18px) saturate(120%) !important;
+
+  border-radius: 20px;
+}
+
+/* Optional: subtle depth shadow */
+.workspace-leaf-content[data-type="markdown"] .view-content {
+  box-shadow:
+    0 10px 30px rgba(0,0,0,0.35),
+    0 0 0 1px rgba(255,255,255,0.05) inset;
+}

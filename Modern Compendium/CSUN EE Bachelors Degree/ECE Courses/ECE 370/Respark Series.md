@@ -1,0 +1,4 @@
+# Day 0
+this is ... day 0 of finding my passion again. for those that know me, you know who I was and what I loved. for those that dont, My name was/is/(i dont feel like my self so i dont feel like my name is who i am anymore ) for a good part of my life i was passionate about creation, specifically engineering, tinkering, and electronics. now because of school and life i found myself dreading what i once loved and on the edge of giving up. My spring break starts tomorrow so i thought, instead of spending that time only grinding it out, I would relax and do what I used to love doing. I made the agreement with myself and my friends that if I find my passion in engineering again, I would continue living my life and studying, and if i dont. . . then I'll find a new passion in my life, a new study as I would hate to have to dread something I once loved. So come join me on my journey and stay tuned for day 2
+
+---

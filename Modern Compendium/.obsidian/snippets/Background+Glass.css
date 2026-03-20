@@ -1,0 +1,479 @@
+.theme-light .workspace {
+    backdrop-filter: brightness(0.3) blur(5px); /* filter for light mode */
+    background-color: transparent;
+}
+.theme-dark .workspace {
+    backdrop-filter: brightness(0.3) blur(5px); /* filter for dark mode */
+    background-color: transparent;
+}
+.horizontal-main-container {
+    position: relative;
+    background: 
+        linear-gradient(
+            to bottom,
+            rgba(0, 0, 0, 0) 40%,
+            rgba(0, 0, 0, 0.7) 75%,
+            rgba(0, 0, 0, 1) 100%
+        ),
+        url(https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg);
+
+    background-size: cover;
+    background-position: center;
+}
+body { 
+/* the background-primary makes the main note pane completely transparent. 
+You can change it to be semi-transparent if you want. 
+I changed background-secondary and divider-width because it
+looks a bit cleaner in my opinion. You can delete those modifications if you want.*/
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --divider-width: 0px;
+}
+
+
+/* Light mode: solid readable modal */
+.theme-light .modal,
+.theme-light .prompt,
+.theme-light .menu,
+.theme-light .popover {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+}
+
+/* Dark mode: solid readable modal */
+.theme-dark .modal,
+.theme-dark .prompt,
+.theme-dark .menu,
+.theme-dark .popover {
+  background-color: rgba(20, 20, 20, 0.95) !important;
+}
+
+
+
+
+
+
+
+/*CLEAR TEST COMBINED*/
+
+/* variables */
+:root {
+  --blur-window: blur(5px) saturate(105%) brightness(110%);
+  --blur-overlay: blur(25px) saturate(140%) brightness(80%);
+  /* mobile */
+  --bright-overlay: saturate(105%) brightness(150%);
+}
+  /* mac translucent window (incompatible with backdrop filter) */
+body.mod-macos.is-translucent {
+  --blur-window: none !important;
+  --blur-overlay: none !important;
+}
+.theme-dark {
+  --glass-window: rgba(0,0,0,0.3);
+  --glass-modal: rgba(25,29,36,0.4);
+  --glass-menu: rgba(0,0,0,0.7);
+
+  --glass-window-inactive: rgba(255,255,255,0.1);
+  
+  --text-normal: rgba(255,255,255,1);
+  --text-muted: rgba(255,255,255,0.68);
+  --text-faint: rgba(255,255,255,0.25);
+
+  --text-normal-inactive: rgba(255,255,255,0.8);  
+  --text-muted-inactive: rgba(255,255,255,0.5);
+  --text-embossed: rgba(0,0,0,0.9);
+
+  --dropdown-color: rgba(20,20,20,1);
+
+  --modal-boost: rgba(0,0,0,0.7);
+
+  --background-modifier-hover: rgba(255,255,255,0.05);
+  --interactive-hover: rgba(255,255,255,0.01);
+  --interactive-normal: rgba(0,0,0,0.25);
+
+  --inactive-gradient-1: rgba(255,255,255,0.12);
+  --inactive-gradient-2: rgba(255,255,255,0.05);
+  --inactive-gradient-3: rgba(255,255,255,0);
+
+  --active-gradient-1: rgba(0,0,0,0.5);
+  --active-gradient-2: rgba(0,0,0,0.7);
+}
+.theme-light {
+  --glass-window: rgba(225,240,255,0.15);
+  --glass-modal: rgba(225,240,255,0.3);
+  --glass-menu: rgba(225,240,255,0.6);
+  
+  --glass-window-inactive: rgba(255,255,255,0.35);
+
+  --text-normal: rgba(0,0,0,1);
+  --text-muted: rgba(0,0,0,0.68);
+  --text-faint: rgba(0,0,0,0.25);
+
+  --text-normal-inactive: rgba(0,0,0,0.7);
+  --text-muted-inactive: rgba(0,0,0,0.4);
+  --text-embossed: rgba(0,0,0,0.8);
+
+  --dropdown-color: rgba(230,230,230,1);
+
+  --modal-boost: rgba(255,255,255,0.1);
+
+  --background-modifier-hover: rgba(255,255,255,0.12);
+  --interactive-hover: rgba(255,255,255,0.5);
+  --interactive-normal: rgba(255,255,255,0.35);
+
+  --inactive-gradient-1: rgba(255,255,255,0.45);
+  --inactive-gradient-2: rgba(255,255,255,0.3);
+  --inactive-gradient-3: rgba(255,255,255,0.15);
+
+  --active-gradient-1: rgba(255,255,255,0.8);
+  --active-gradient-2: rgba(255,255,255,0.5);
+}
+body.mod-macos.is-translucent.theme-light {
+  --modal-boost: rgba(255,255,255,0.7);
+}
+
+  /* base transparency */
+body {
+  --color-base-00: transparent;
+  --background-primary: transparent;
+  --background-primary-alt: transparent;
+  --background-secondary: transparent;
+  --background-secondary-alt: transparent !important;
+  --workspace-background-translucent: transparent;
+  --background-modifier-border: transparent;
+    /* borders */
+  --divider-width: 0px !important;
+  --tab-divider-color: transparent;
+  --tab-outline-width: 0px;
+  --tab-outline-color: transparent;
+  --border-bottom-color: transparent !important;
+}
+
+/* containers */
+  /* app */
+body:not(.is-mobile).obsidian-app::before {
+  content: "";
+  position: fixed;
+  inset: 0;  
+  z-index: -1;
+  pointer-events: none;
+  background-color: var(--glass-window);
+  backdrop-filter: var(--blur-window);
+  -webkit-backdrop-filter: var(--blur-window);
+}
+    /* wallpaper blur */
+body.is-mobile.obsidian-app::before {
+  content: "";
+  position: fixed;
+  inset: 0;  
+  z-index: -1;
+  pointer-events: none;
+  background-color: var(--glass-window);
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+  /* modal */
+.modal,
+.prompt,
+.hover-popover,
+[class*="suggestion-container"],
+      /* mobile */
+body:not(.is-phone) .workspace-drawer:is(
+  .mod-left,
+  .mod-right
+):not(.is-pinned) {
+  background-color: var(--glass-modal);
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+    /* shadows for desktop */
+body:not(.is-mobile) :is(
+  .modal,
+  .prompt,
+  .hover-popover,
+  [class*="suggestion-container"]
+) {
+  border: none;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+  border-top: 1px solid rgba(255,255,255,0.03);
+}
+    /* compensate for blur filter */
+body.mod-macos.is-translucent :is(
+  .modal,
+  .prompt,
+  .hover-popover,
+  [class*="suggestion-container"]
+)::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  clip-path: inherit;
+  background: var(--modal-boost);
+}
+    /* shadows for tablet */
+body.theme-dark.is-tablet .workspace-drawer:is(
+  .mod-left,
+  .mod-right
+):not(.is-pinned),             
+.modal.modal.mod-settings {
+  box-shadow: 
+    0 0 0 1px rgba(0,0,0,0.05),
+    0 10px 20px rgba(0,0,0,0.4),
+    0 20px 50px rgba(0,0,0,0.6),
+    0 0 80px rgba(0,0,0,0.8) !important;
+}
+    /* slider fix */
+body [class="slider"] {
+  --slider-track-background: var(--text-faint);
+}
+  /* menu */
+body:not(.is-mobile) .menu,
+.notice,
+    /* mobile */
+.tooltip {
+  background-color: var(--glass-menu) !important;
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+  border: none;
+}	
+      /* transparent menus */
+body:not(.is-mobile) :is(
+  .prompt-results,
+  .suggestion-container,
+  .suggestion-item
+) {
+  background-color: transparent;
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+body:not(.mod-macos).is-mobile .suggestion-container {
+  background-color: var(--glass-modal);
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+      /* tab options */
+body.is-phone :is(
+  .workspace-drawer:is(.mod-left, .mod-right)
+  .workspace-tab-header-inner,
+  .workspace-drawer-tab-options-list
+) {
+  background-color: transparent;
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+body:not(.is-phone) :is(
+  .workspace-drawer:is(
+    .mod-left,
+    .mod-right
+  ) 
+  .workspace-drawer-tab-options-list
+) {
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+  background-color: var(--glass-menu);
+}
+        /* button overlap fix */
+.workspace-drawer.mod-right 
+.workspace-drawer-tab-options:not(.is-collapsed) ~ 
+.workspace-drawer-active-tab-content .nav-buttons-container {
+  z-index: -1 !important;
+  pointer-events: none !important;
+}
+      /* search bar fix */
+body.is-tablet .workspace-drawer.mod-right [class="search-input-container"] {
+  margin-top: 64px;
+}
+      /* tab switcher */
+.mobile-tab-switcher {
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+.mobile-tab-preview,
+.mobile-tab-preview-embed {
+  background-color: var(--glass-modal);
+  backdrop-filter: var(--blur-window);
+  -webkit-backdrop-filter: var(--blur-window);
+}
+
+
+/* interactive elements */
+  /* status bar */
+.status-bar {
+  background-color: var(--glass-modal);
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+  /* input box */
+body:not(.is-mobile) :is(
+  textarea,
+  .multi-select-container,
+  input.metadata-input-text,
+  :is(.prompt-input, input
+  ):is(
+    [type='date'],
+    [type='datetime-local'],
+    [type='text'],
+    [type='search'],
+    [type='email'],
+    [type='password'],
+    [type='number']
+  )
+):not([type='color']) {
+  background-color: var(--glass-window);
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+}
+    /* mobile */
+body.is-mobile :is(
+  textarea,
+  .multi-select-container,
+  input.metadata-input-text,
+  :is(
+    .prompt-input,
+    input
+  ):is(
+    [type='date'],
+    [type='datetime-local'],
+    [type='text'],
+    [type='search'],
+    [type='email'],
+    [type='password'],
+    [type='number'])
+):not([type='color']) {
+  --interactive-normal: transparent;
+  background-color: transparent;
+  backdrop-filter: var(--bright-overlay);
+  -webkit-backdrop-filter: var(--bright-overlay);
+  border-radius: 36px;
+  border: none;
+  box-shadow: none;
+}
+    /* focus */
+body:not(.is-mobile) :is(
+  textarea,
+  .multi-select-container,
+  input:is(
+    .metadata-input-text,
+    [type])
+) :is(
+  :active,
+  :focus,
+  :focus-visible
+) {
+  background-color: var(--glass-modal);
+}
+  /* dropdown menu */
+.dropdown option {
+  background-color: var(--dropdown-color);
+}
+  /* mobile buttons */
+body.mod-ios .app-container .horizontal-main-container {
+  --interactive-normal: transparent !important;
+}
+    /* layering */
+      /* no contrast needed */
+body:not(.is-macos) .clickable-icon.workspace-drawer-header-icon,
+body:is(
+  .workspace-split.mod-root :is(.view-content *),
+  .workspace-drawer-header,
+  .modal-header
+) .clickable-icon {
+  background-image: none;
+  backdrop-filter: var(--bright-overlay);
+  -webkit-backdrop-filter: var(--bright-overlay);
+  border: none;
+  box-shadow: none;
+}
+      /* more contrast needed */
+.workspace-drawer-active-tab-content .nav-buttons-container .clickable-icon {
+  -webkit-backdrop-filter: var(--blur-window);
+  backdrop-filter: var(--blur-window);
+  background-color: var(--glass-menu);
+}
+body.is-tablet .workspace-drawer-active-tab-content .nav-buttons-container .clickable-icon {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2),
+    0 6px 6px rgba(0,0,0,0.15),
+    0 0 0 1px rgba(0,0,0,0.1);
+}
+body.is-phone :is(
+  .workspace-split .clickable-icon:not(.view-content *),
+  .modal-close-button.mod-raised.clickable-icon,
+  .modal-header .clickable-icon
+) {
+  -webkit-mask-image: -webkit-radial-gradient(white, black);
+  background-color: var(--glass-modal);
+  -webkit-backdrop-filter: none;
+  backdrop-filter: var(--blur-modal);
+  border: none;
+  box-shadow: none;
+}
+.mobile-navbar {
+  backdrop-filter: var(--blur-window);
+  -webkit-backdrop-filter: var(--blur-window);
+  border: none;
+  box-shadow: none;
+}
+      /* extra contrast needed */
+.dropdown,
+:is(
+  .setting-item-control,
+  .modal-button-container,
+  .community-modal-button-container
+) button:not(.mod-cta),
+.modal-container input:is(
+  [type='date'],
+  [type='datetime-local'],
+  [type='text'],
+  [type='search'],
+  [type='email'],
+  [type='password'],
+  [type='number']
+) {
+  background-color: var(--glass-window-inactive) !important;
+}
+  /* tables */
+.table-cell-wrapper {
+  background-color: var(--glass-window);
+  overflow: hidden;
+  border: 1px solid var(--glass-menu) !important;
+}
+.table-editor th:first-child .table-cell-wrapper { 
+  border-top-left-radius: 4px; 
+}
+.table-editor th:last-child .table-cell-wrapper { 
+  border-top-right-radius: 4px; 
+}
+.table-editor tr:last-child td:first-child .table-cell-wrapper { 
+  border-bottom-left-radius: 4px; 
+}
+.table-editor tr:last-child td:last-child .table-cell-wrapper { 
+  border-bottom-right-radius: 4px; 
+}
+.markdown-source-view.mod-cm6 .cm-table-widget .table-row-btn {
+  overflow: hidden;
+  border-radius: 0 0 4px 4px;
+  background-color: var(--glass-window);
+}
+.markdown-source-view.mod-cm6 .cm-table-widget .table-col-btn {
+  overflow: hidden;
+  border-radius: 0 4px 4px 0;
+  background-color: var(--glass-window);
+}
+  /* canvas */
+.canvas-node-container {
+  background-color: var(--glass-modal);
+  backdrop-filter: var(--blur-overlay);
+  -webkit-backdrop-filter: var(--blur-overlay);
+  border: none;
+}
+
+
+body:not(.is-mobile) .suggestion-container {
+  background-color: rgba(18, 18, 18, 0.82) !important;
+}
+
+body:not(.is-mobile) .suggestion-item:hover,
+body:not(.is-mobile) .suggestion-item.is-selected,
+body:not(.is-mobile) .menu-item:hover {
+  background-color: rgba(255,255,255,0.12) !important;
+}

@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Stuff2",
+    "Background+Glass",
+    "Block Quotes",
+    "GraphViewStuff",
+    "Notes Background and Block Quotes",
+    "StuffMore",
+    "SecondaryWindow",
+    "MainNotesClarity"
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Passion.md",
+        "ASME x IEEE AutoCad Workshop.md",
+        "Summer Classes.md",
+        "Theme Assets",
+        "Imports",
+        "2025-20260216T223447Z-1-001.zip",
+        "Compendium Of Knowledge.md",
+        "CSUN EE Bachelors Degree",
+        "MicroMouse CSUN IEEE.md",
+        "ITAC AR Reports.md",
+        "Irvine hacks 2026",
+        "Templates"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree": {
+      "children": [
+        "CSUN EE Bachelors Degree/CSUN Electrical Engineering Bachelors Degree.md",
+        "CSUN EE Bachelors Degree/ECE Courses"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 351",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 480",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 511"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 351": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 351/ECE 351 - Signals and Systems in Discrete Time.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 351/ECE 351 Dirty Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 370": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/Respark Series.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Electromagnetics and Waves.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 2 trouble shooting.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Prelab - UART.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW 2.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 - Microprocessor Systems.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Dirty Notes.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Report 2 brain storm.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 480": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 - Intro to Controls Systems.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Dirty Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 511": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 511/ECE 511 - Distributed Energy Generation.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 511/ECE 511 Dirty Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Imports": {
+      "children": [
+        "Imports/image 4.webp",
+        "Imports/image 3.webp",
+        "Imports/image 2.webp",
+        "Imports/Pasted image 20260311120723.png",
+        "Imports/Pasted image 20260311121433.png",
+        "Imports/image 1.webp",
+        "Imports/image.webp",
+        "Imports/Pasted image 20260227231328.png",
+        "Imports/Pasted image 20260311072653.png",
+        "Imports/Pasted image 20260305173906.png",
+        "Imports/Pasted image 20260228005828.png",
+        "Imports/Pasted image 20260227231224.png",
+        "Imports/Pasted image 20260227231308.png",
+        "Imports/Pasted image 20260305173842.png",
+        "Imports/Pasted image 20260305173841.png",
+        "Imports/Pasted image 20260305173831.png",
+        "Imports/Pasted image 20260310231907.png",
+        "Imports/2026-02-19.pdf",
+        "Imports/ECE480 P53-P66 1.pdf",
+        "Imports/ECE480 P53-P66.pdf",
+        "Imports/Pasted image 20260217134225.png",
+        "Imports/Pasted image 20260217135134.png",
+        "Imports/Pasted image 20260217134158.png",
+        "Imports/Pasted image 20260217135200.png",
+        "Imports/Pasted image 20260217134349.png",
+        "Imports/Pasted image 20260217173648.png",
+        "Imports/Pasted image 20260217173541.png",
+        "Imports/Pasted image 20260217173615.png",
+        "Imports/Pasted image 20260217173652.png",
+        "Imports/Pasted image 20260217173749.png",
+        "Imports/Pasted image 20260217173756.png",
+        "Imports/Pasted image 20260217173758.png",
+        "Imports/Pasted image 20260217174549.png",
+        "Imports/Pasted image 20260217175338.png",
+        "Imports/Pasted image 20260217175713.png",
+        "Imports/Pasted image 20260217175942.png",
+        "Imports/Pasted image 20260217180049.png",
+        "Imports/Pasted image 20260217180725.png",
+        "Imports/Pasted image 20260217180929.png",
+        "Imports/Pasted image 20260217182841.png",
+        "Imports/Pasted image 20260217183050.png",
+        "Imports/Pasted image 20260217183140.png",
+        "Imports/Pasted image 20260217183201.png",
+        "Imports/Pasted image 20260217183228.png",
+        "Imports/Pasted image 20260217183313.png",
+        "Imports/Pasted image 20260217183545.png",
+        "Imports/Pasted image 20260217183722.png",
+        "Imports/Pasted image 20260217183739.png",
+        "Imports/Pasted image 20260217183742.png",
+        "Imports/Pasted image 20260217183744.png",
+        "Imports/Pasted image 20260217183849.png",
+        "Imports/Pasted image 20260217184056.png",
+        "Imports/2026-02-17.pdf",
+        "Imports/ECE 370 - 5 - Standing Waves.pdf",
+        "Imports/Pasted image 20260216142518.png",
+        "Imports/Pasted image 20260216142428.png",
+        "Imports/Pasted image 20260214211157.png",
+        "Imports/Pasted image 20260214211327.png",
+        "Imports/Pasted image 20260214211551.png",
+        "Imports/Pasted image 20260214211927.png",
+        "Imports/Pasted image 20260214223351.png",
+        "Imports/Pasted image 20260214223729.png",
+        "Imports/Pasted image 20260214223754.png",
+        "Imports/Pasted image 20260214224103.png",
+        "Imports/Pasted image 20260214224439.png",
+        "Imports/Pasted image 20260214224636.png",
+        "Imports/Pasted image 20260214224908.png",
+        "Imports/Pasted image 20260214224943.png",
+        "Imports/Pasted image 20260122181831.png",
+        "Imports/Pasted image 20260209104606.png",
+        "Imports/Pasted image 20260209104539.png",
+        "Imports/DG_rotating Machine_based.pdf",
+        "Imports/Quiz 1_SP26_solution.pdf",
+        "Imports/Pasted image 20260209093715.png",
+        "Imports/Pasted image 20260209093700.png",
+        "Imports/Pasted image 20260209093524.png",
+        "Imports/Pasted image 20260209093415.png",
+        "Imports/Pasted image 20260209093208.png",
+        "Imports/Pasted image 20260209093028.png",
+        "Imports/Pasted image 20260209092409.png",
+        "Imports/Pasted image 20260209092406.png",
+        "Imports/Pasted image 20260209092243.png",
+        "Imports/Pasted image 20260209092132.png",
+        "Imports/Pasted image 20260209092127.png",
+        "Imports/Pasted image 20260209091831.png",
+        "Imports/Pasted image 20260209091405.png",
+        "Imports/Pasted image 20260209090948.png",
+        "Imports/Pasted image 20260208165753.png",
+        "Imports/Pasted image 20260129134452.png",
+        "Imports/Pasted image 20260129132110.png",
+        "Imports/Pasted image 20260129182534.png",
+        "Imports/Pasted image 20260202090640.png",
+        "Imports/Pasted image 20260202092119.png",
+        "Imports/Pasted image 20260202092159.png",
+        "Imports/Pasted image 20260202130707.png",
+        "Imports/Pasted image 20260202091827.png",
+        "Imports/Pasted image 20260202131717.png",
+        "Imports/Pasted image 20260122180300.png",
+        "Imports/Pasted image 20260128133241.png",
+        "Imports/Pasted image 20260128135007.png",
+        "Imports/Pasted image 20260128141042.png",
+        "Imports/Pasted image 20260128104050.png",
+        "Imports/Pasted image 20260128104153.png",
+        "Imports/Pasted image 20260128110526.png",
+        "Imports/Pasted image 20260128110555.png",
+        "Imports/Pasted image 20260128110654.png",
+        "Imports/Pasted image 20260127174452.png",
+        "Imports/Pasted image 20260127174524.png",
+        "Imports/Pasted image 20260127180330.png",
+        "Imports/Pasted image 20260127180445.png",
+        "Imports/Pasted image 20260122175311.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Irvine hacks 2026": {
+      "children": [
+        "Irvine hacks 2026/Devpost - Project Story.md",
+        "Irvine hacks 2026/Devpost - Project Story Draft.md",
+        "Irvine hacks 2026/Irvine Hacks.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Templates": {
+      "children": [
+        "Templates/Concept Definition.md",
+        "Templates/Equation Definition.md",
+        "Templates/Example Problem.md",
+        "Templates/Example Solution - Cleaned.md",
+        "Templates/Example Solution - Dirty.md",
+        "Templates/Lecture Recap.md",
+        "Templates/Prelecture Setup.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Theme Assets": {
+      "children": [
+        "Theme Assets/Night Time Japan.jpeg"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
