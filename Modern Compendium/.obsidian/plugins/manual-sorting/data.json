@@ -2,18 +2,13 @@
   "customOrder": {
     "/": {
       "children": [
-        "Passion.md",
-        "ASME x IEEE AutoCad Workshop.md",
-        "Summer Classes.md",
-        "Theme Assets",
-        "Imports",
-        "2025-20260216T223447Z-1-001.zip",
         "Compendium Of Knowledge.md",
+        "Theme Assets",
+        "2025-20260216T223447Z-1-001.zip",
+        "Tasks and Events - Misc",
         "CSUN EE Bachelors Degree",
-        "MicroMouse CSUN IEEE.md",
-        "ITAC AR Reports.md",
-        "Irvine hacks 2026",
-        "Templates"
+        "Templates",
+        "Imports"
       ],
       "sortOrder": "custom"
     },
@@ -202,11 +197,22 @@
       ],
       "sortOrder": "custom"
     },
-    "Irvine hacks 2026": {
+    "Tasks and Events - Misc": {
       "children": [
-        "Irvine hacks 2026/Devpost - Project Story.md",
-        "Irvine hacks 2026/Devpost - Project Story Draft.md",
-        "Irvine hacks 2026/Irvine Hacks.md"
+        "Tasks and Events - Misc/Irvine hacks 2026",
+        "Tasks and Events - Misc/Summer Classes.md",
+        "Tasks and Events - Misc/ASME x IEEE AutoCad Workshop.md",
+        "Tasks and Events - Misc/Passion.md",
+        "Tasks and Events - Misc/ITAC AR Reports.md",
+        "Tasks and Events - Misc/MicroMouse CSUN IEEE.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Tasks and Events - Misc/Irvine hacks 2026": {
+      "children": [
+        "Tasks and Events - Misc/Irvine hacks 2026/Devpost - Project Story.md",
+        "Tasks and Events - Misc/Irvine hacks 2026/Devpost - Project Story Draft.md",
+        "Tasks and Events - Misc/Irvine hacks 2026/Irvine Hacks.md"
       ],
       "sortOrder": "custom"
     },
@@ -224,6 +230,9 @@
     },
     "Theme Assets": {
       "children": [
+        "Theme Assets/Secondary Window.png",
+        "Theme Assets/Node Tree Texture.jpg",
+        "Theme Assets/Block Quote Texture.jpg",
         "Theme Assets/Night Time Japan.jpeg"
       ],
       "sortOrder": "custom"

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium Of Knowledge.md",
+                "file": "Tasks and Events - Misc/Passion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compendium Of Knowledge"
+              "title": "Passion"
             }
           },
           {
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASME x IEEE AutoCad Workshop.md",
+                "file": "Tasks and Events - Misc/ASME x IEEE AutoCad Workshop.md",
                 "mode": "source",
                 "source": false
               },
@@ -264,15 +264,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d87116af79057288",
+  "active": "d801f12e7e80ceb3",
   "lastOpenFiles": [
+    "Compendium Of Knowledge.md",
     "Untitled.base",
+    "Tasks and Events - Misc",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline.md",
-    "Summer Classes.md",
-    "ASME x IEEE AutoCad Workshop.md",
+    "Tasks and Events - Misc/Summer Classes.md",
+    "Tasks and Events - Misc/ASME x IEEE AutoCad Workshop.md",
     "Theme Assets/Block Quote Texture.jpg",
     "Theme Assets/Night Time Japan.jpeg",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 370/Respark Series.md",
@@ -281,18 +283,17 @@
     "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab.md",
     "CSUN EE Bachelors Degree/CSUN Electrical Engineering Bachelors Degree.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE.md",
-    "Compendium Of Knowledge.md",
     "Imports/Pasted image 20260311120723.png",
     "Imports/Pasted image 20260311121433.png",
-    "Passion.md",
+    "Tasks and Events - Misc/Passion.md",
     "Imports/image 2.webp",
     "Theme Assets",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Dirty Notes.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 - Intro to Controls Systems.md",
-    "Irvine hacks 2026/Irvine Hacks.md",
-    "Irvine hacks 2026/Devpost - Project Story.md",
-    "MicroMouse CSUN IEEE.md",
-    "ITAC AR Reports.md",
+    "Tasks and Events - Misc/Irvine hacks 2026/Irvine Hacks.md",
+    "Tasks and Events - Misc/Irvine hacks 2026/Devpost - Project Story.md",
+    "Tasks and Events - Misc/MicroMouse CSUN IEEE.md",
+    "Tasks and Events - Misc/ITAC AR Reports.md",
     "Imports/image 4.webp",
     "Imports/image 3.webp",
     "Imports/image 1.webp",
@@ -307,11 +308,9 @@
     "CSUN EE Bachelors Degree/ECE Courses",
     "CSUN EE Bachelors Degree/ECE 511/Untitled",
     "CSUN EE Bachelors Degree",
-    "Irvine hacks 2026",
+    "Tasks and Events - Misc/Irvine hacks 2026",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review",
     "Imports/2026-02-19.pdf",
-    "Imports/ECE480 P53-P66.pdf",
-    "Imports/ECE480 P53-P66 1.pdf",
     "Untitled.canvas"
   ]
 }
