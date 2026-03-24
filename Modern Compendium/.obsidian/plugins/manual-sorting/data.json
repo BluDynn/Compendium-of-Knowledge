@@ -48,7 +48,7 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 370": {
       "children": [
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/Respark Series.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 3 - Report.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Electromagnetics and Waves.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab.md",
@@ -199,6 +199,8 @@
     },
     "Tasks and Events - Misc": {
       "children": [
+        "Tasks and Events - Misc/Respark Series.md",
+        "Tasks and Events - Misc/Industry Panel.md",
         "Tasks and Events - Misc/Irvine hacks 2026",
         "Tasks and Events - Misc/Summer Classes.md",
         "Tasks and Events - Misc/ASME x IEEE AutoCad Workshop.md",

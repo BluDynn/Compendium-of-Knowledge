@@ -51,16 +51,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 2 - Report.md",
+                "file": "Compendium Of Knowledge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECE 370 Lab 2 - Report"
+              "title": "Compendium Of Knowledge"
+            }
+          },
+          {
+            "id": "6ee791b9f2b39a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ECE 370 - Dirty Notes"
+            }
+          },
+          {
+            "id": "3b7e99a2c17eb71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks and Events - Misc/Industry Panel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Industry Panel"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "right": {
     "id": "cfbb0ee88428e1d4",
@@ -244,22 +272,25 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "298fb09a31e9d2f3",
+  "active": "3b7e99a2c17eb71a",
   "lastOpenFiles": [
     "Compendium Of Knowledge.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 3 - Report.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 2 - Report.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Report 2 brain storm.md",
+    "Tasks and Events - Misc/Industry Panel.md",
     "Tasks and Events - Misc/Summer Classes.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 2 - Report.md",
     "Tasks and Events - Misc/ASME x IEEE AutoCad Workshop.md",
     "Untitled.base",
     "Tasks and Events - Misc",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline.md",
     "Theme Assets/Block Quote Texture.jpg",
     "Theme Assets/Night Time Japan.jpeg",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/Respark Series.md",
+    "Tasks and Events - Misc/Respark Series.md",
     "Theme Assets/Secondary Window.png",
     "Theme Assets/Node Tree Texture.jpg",
     "CSUN EE Bachelors Degree/CSUN Electrical Engineering Bachelors Degree.md",
@@ -283,9 +314,6 @@
     "Theme Assets",
     "Templates/Example Solution - Cleaned.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 511/ECE 511 - Distributed Energy Generation.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 511/ECE 511 Dirty Notes.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 - Microprocessor Systems.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Electromagnetics and Waves.md",
     "CSUN EE Bachelors Degree/ECE Courses",
     "CSUN EE Bachelors Degree/ECE 511/Untitled",
     "CSUN EE Bachelors Degree",

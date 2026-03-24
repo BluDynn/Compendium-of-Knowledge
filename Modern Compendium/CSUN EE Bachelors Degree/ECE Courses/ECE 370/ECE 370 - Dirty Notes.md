@@ -146,3 +146,52 @@ Transmission line Table Eqs
 ---
 [[ECE 370 - 5 - Standing Waves.pdf]]
 
+# 2026-03-23
+---  
+## The Smith Chart
+// YT smiths - the smith chart is a versatile tool that we olnly cover a tip of it. 
+ 
+ > graphical tool for analyzation and design for transmission line circuits
+ 
+- Lies in the complex $\Gamma$ plane
+	- x axis real $\Gamma$ 
+	- y axis im $\Gamma$
+1. Normalize Impedance 
+2. $$\Gamma = \frac{Z_1/Z_0 -1}{Z_1/Z_0 +1}= \frac{z_L -1}{z_L+1}$$
+3. $$z_L = r_L +j\omega_L$$
+4. Fuck ass derivations
+5. Open circuit - RHS
+6. Short Circuit - LHS 
+7. Matched case - $\Gamma$ = 
+
+
+**We will be utilzing THE COMPLETE SMITH CHART**
+
+positive - inducatnces - toop part
+negative - capacitance - bottom part
+
+Practice - for GAMMA reflection coefficient
+
+step 1 - normalize (divide by Z_0)
+Z_0 = 50 OHMS || z_L = Z_L/Z_0 = 100 -j50)/50
+comes out to be ... r_L + jX_L
+
+step 2 
+This found value will be a dot
+- r_L is the resistive component for the value of 2
+	- but 2 isnt just the point it is the circle at 2
+to find thedot you must find the imaginary component
+- jX_L is on the numbers next to the edge of the chart, below is minus, above is positive.
+
+step 3 ... DRAW A LINE WTH
+- draw the line from the point to the matched case or center point and then the through line should be your theta r - This is the anlge
+
+Magnitude calcs - 
+Method 1 - ruler and measure from center to Z_L point  from this make it relative to the smith chart as d1 /d2 
+
+Method 2 - bottom rule - measure and go left with the same distance as d 1 
+
+--- 
+if you draw a circle on that Z_L the value of d1 would be the same 
+"the magnitudde of the reflection coeffifcient is the same " but the angle is differnet
+ 

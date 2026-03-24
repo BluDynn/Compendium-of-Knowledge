@@ -1,16 +1,15 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "LaTeX",
   "theme": "obsidian",
   "nativeMenus": false,
   "enabledCssSnippets": [
     "Stuff2",
+    "StuffMore",
     "Background+Glass",
     "Block Quotes",
     "GraphViewStuff",
-    "Notes Background and Block Quotes",
-    "StuffMore",
-    "SecondaryWindow",
-    "MainNotesClarity"
+    "MainNotesClarity",
+    "Notes Background and Block Quotes"
   ]
 }
