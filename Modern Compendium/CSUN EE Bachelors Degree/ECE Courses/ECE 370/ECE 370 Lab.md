@@ -83,3 +83,8 @@ MLINS - redo
 125.795/2 = 62.8975
 
 62.8975
+
+---
+beta - 2pi / lambda * l
+lambda - v/f
+mloc - 

@@ -500,3 +500,63 @@ number of braneches is = ro piels , if poles > than mu,enr pf is greater thatn n
 amad os equa o the numebr of zeros of GH if number pof zeros of is feathe ihtaskd jjsadpok
 
 
+# 2026-03-24
+---
+
+What happened last time... Man idfk 
+
+Exam date being finalized 
+"most of the stuff you need to study is there"
+
+design Root locus 
+
+"final is cumulative but leaned towards the latter part"
+
+Fuzzy control - taught by babak next time lmao
+Graduate level controls "ECE 581 or sumthin" "ECE 580 digitial controls"
+
+Quick 8 rules of the root locus
+Rule 1 
+each open loop pole creates one path 
+n poles -> n branches
+
+Rule 2 
+start and end points 
+starrts at open loop poles 
+ends at open loop zeros or infinity
+
+Rule 3 
+Symmetry
+root locus is symmetric about the real axis
+
+Rule 4 
+real axis segments 
+a point is on the root locus if the number of real poles + zeros to the right is odd 
+
+babak/alimini ""
+
+Rule 5/6
+Linear Asymptotes 
+if poles > zeros, extra branches go to ininity along asymptoes
+
+Branches can split off the real axis or merge back 
+
+Rule 7 
+imaginary axis crossing 
+Routh Hurwitz - CPGT - to find when poles cross into instability 
+
+Rule 8 
+break away/ break in point
+
+Rule 9
+Angle of departure/arrival
+to be considerd when GH has complex/imginart poles (angle of departure)
+GH with complex/imaginary zeros  (angle of apporach )
+
+"KGH" - closed loop gain
+
+
+fuck i had to shit and i missed notes
+
+read the textbook and have fun! 
+PID CONTROL YES FINALLY

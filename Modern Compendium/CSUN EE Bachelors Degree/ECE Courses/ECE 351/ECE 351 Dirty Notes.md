@@ -281,3 +281,18 @@ lowk fell asleep - but i need to try taking notes differently - if anything his 
 
 next class ... ;-; 
 
+---
+# 2026-04-01
+---
+Holy ball we fell so far behind
+
+## Canonical Block DIagrams
+//slides are talking of ...
+//nverse ztransform 
+//eigenfunctions
+//stability
+
+### System Realization
+
+> Canonical Form
+> > "using the min # of delays, N"

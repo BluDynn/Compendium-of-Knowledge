@@ -46,3 +46,31 @@ Main Left side Itinerary
 Right side speaker descriptions 
 Bottom notes 
 
+
+
+**Albert Lin**
+
+- Systems Engineer
+- B.S. UCSB, M.S. USC
+- Former Boeing Engineer
+- Senior Life Member, IEEE
+- Chair, IEEE San Fernando Valley Section
+
+---
+
+**Gaurav Deshmukh**
+
+- Software Engineer / Cloud Architect
+- 10+ years in software design
+- Background in AI and emerging tech
+- University of Pune (India)
+
+---
+
+**Shima Ghaheri**
+
+- MFA, Industrial & Product Design (RIT)
+- Gameplay Production Designer
+- Executive Consultant
+- Personal Mentor
+- Focus on design + career development

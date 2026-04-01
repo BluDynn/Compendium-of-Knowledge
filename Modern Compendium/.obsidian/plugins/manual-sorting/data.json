@@ -58,6 +58,7 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425": {
       "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Exp 4 Prelab - SPI.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Prelab - UART.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW 2.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 - Microprocessor Systems.md",
@@ -199,6 +200,7 @@
     },
     "Tasks and Events - Misc": {
       "children": [
+        "Tasks and Events - Misc/ECE Town hall notes.md",
         "Tasks and Events - Misc/Respark Series.md",
         "Tasks and Events - Misc/Industry Panel.md",
         "Tasks and Events - Misc/Irvine hacks 2026",
