@@ -11,108 +11,17 @@
             "id": "0dffa62b4e8e7867",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "d87116af79057288",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium Of Knowledge.md",
+                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compendium Of Knowledge"
-            }
-          },
-          {
-            "id": "c1191b32363e1633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Passion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passion"
-            }
-          },
-          {
-            "id": "298fb09a31e9d2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium Of Knowledge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compendium Of Knowledge"
-            }
-          },
-          {
-            "id": "6ee791b9f2b39a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ECE 370 - Dirty Notes"
-            }
-          },
-          {
-            "id": "3b7e99a2c17eb71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exp2 Prelab"
-            }
-          },
-          {
-            "id": "41b3064e0af921f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 351/ECE 351 Dirty Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ECE 351 Dirty Notes"
-            }
-          },
-          {
-            "id": "2f77545982726cce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "ECE 425 Autonomous VTOL Flight Controller"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "cfbb0ee88428e1d4",
@@ -256,9 +166,21 @@
               "icon": "lucide-list",
               "title": "Outline of ECE 480 Dirty Notes"
             }
+          },
+          {
+            "id": "3dd6203d7da8c44e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for ECE 425 Autonomous VTOL Flight Controller"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "5510f1886b98b4f0",
@@ -271,7 +193,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "ECE 480/ECE 480 Dirty Notes.md"
+                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -296,15 +218,25 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "41b3064e0af921f2",
+  "active": "0dffa62b4e8e7867",
   "lastOpenFiles": [
+    "Imports/Pasted image 20260405161210.png",
+    "Imports/Pasted image 20260405153406.png",
+    "Imports/Pasted image 20260405151102.png",
     "Compendium Of Knowledge.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md",
+    "Imports/Pasted image 20260402172430.png",
+    "Imports/Pasted image 20260402170434.png",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 5.md",
+    "2026-04-02.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 351/ECE 351 Dirty Notes.md",
     "CSUN EE Bachelors Degree/CSUN Electrical Engineering Bachelors Degree.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE.md",
     "Tasks and Events - Misc/ECE Town hall notes.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Exp 4 Prelab - SPI.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 - Microprocessor Systems.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Report 2 brain storm.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Dirty Notes.md",
@@ -327,23 +259,13 @@
     "Theme Assets/Node Tree Texture.jpg",
     "Imports/Pasted image 20260311120723.png",
     "Imports/Pasted image 20260311121433.png",
-    "Tasks and Events - Misc/Passion.md",
-    "Imports/image 2.webp",
     "Theme Assets",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Dirty Notes.md",
-    "Tasks and Events - Misc/Irvine hacks 2026/Irvine Hacks.md",
-    "Tasks and Events - Misc/Irvine hacks 2026/Devpost - Project Story.md",
-    "Tasks and Events - Misc/MicroMouse CSUN IEEE.md",
-    "Imports/image 4.webp",
-    "Imports/image 3.webp",
-    "Imports/image 1.webp",
     "Theme Assets",
     "CSUN EE Bachelors Degree/ECE Courses",
     "CSUN EE Bachelors Degree/ECE 511/Untitled",
     "CSUN EE Bachelors Degree",
     "Tasks and Events - Misc/Irvine hacks 2026",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review",
-    "Imports/2026-02-19.pdf",
     "Untitled.canvas"
   ]
 }

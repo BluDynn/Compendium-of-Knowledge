@@ -296,3 +296,9 @@ Holy ball we fell so far behind
 
 > Canonical Form
 > > "using the min # of delays, N"
+
+## Lecture 
+### Desiging Analog FIlter
+
+recall the definitions for the inductor and the capacitor 
+

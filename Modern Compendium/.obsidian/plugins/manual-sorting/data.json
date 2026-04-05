@@ -58,6 +58,8 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425": {
       "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 5.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Exp 4 Prelab - SPI.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Prelab - UART.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW 2.md",
@@ -65,6 +67,12 @@
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Dirty Notes.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Report 2 brain storm.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md"
       ],
       "sortOrder": "custom"
     },
@@ -84,6 +92,8 @@
     },
     "Imports": {
       "children": [
+        "Imports/Pasted image 20260402170434.png",
+        "Imports/Pasted image 20260402172430.png",
         "Imports/image 4.webp",
         "Imports/image 3.webp",
         "Imports/image 2.webp",
