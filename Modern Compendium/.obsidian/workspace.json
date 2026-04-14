@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c03854c272ee9ff2",
+        "id": "a567d06533e530a5",
         "type": "tabs",
         "children": [
           {
-            "id": "0dffa62b4e8e7867",
+            "id": "a6d9c9d348e72af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md",
-                "mode": "source",
-                "source": false
+                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 425/System Architecture Drop Down.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ECE 425 Autonomous VTOL Flight Controller"
+              "title": "System Architecture Drop Down"
             }
           }
         ]
@@ -45,6 +45,20 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "0dffa62b4e8e7867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium Of Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compendium Of Knowledge"
             }
           },
           {
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "cfbb0ee88428e1d4",
@@ -218,54 +231,103 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "0dffa62b4e8e7867",
+  "floating": {
+    "id": "b1a60348d239b22b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5c765af61de4dff1",
+        "type": "window",
+        "children": [
+          {
+            "id": "da034c437c38f14e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1e46d38975a6761",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Universal Asynchronous Receive Transmit (UART).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Universal Asynchronous Receive Transmit (UART)"
+                }
+              },
+              {
+                "id": "d23378aa358a1526",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 854,
+        "height": 912,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a6d9c9d348e72af1",
   "lastOpenFiles": [
-    "Imports/Pasted image 20260405161210.png",
-    "Imports/Pasted image 20260405153406.png",
-    "Imports/Pasted image 20260405151102.png",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Universal Asynchronous Receive Transmit (UART).md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/System Architecture Drop Down.md",
+    "Imports/Pasted image 20260414102406.png",
     "Compendium Of Knowledge.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md",
-    "Imports/Pasted image 20260402172430.png",
-    "Imports/Pasted image 20260402170434.png",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 5.md",
-    "2026-04-02.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 351/ECE 351 Dirty Notes.md",
-    "CSUN EE Bachelors Degree/CSUN Electrical Engineering Bachelors Degree.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE.md",
-    "Tasks and Events - Misc/ECE Town hall notes.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Exp 4 Prelab - SPI.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 - Microprocessor Systems.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Report 2 brain storm.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Dirty Notes.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 - Intro to Controls Systems.md",
-    "Tasks and Events - Misc/Industry Panel.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 3 - Report.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 2 - Report.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 5.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW - Daniel Jeorge Adrayan.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Exp 4 Prelab - SPI.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Prelab - UART.md",
+    "Imports/Pasted image 20260413175244.png",
+    "Imports/Pasted image 20260413175106.png",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller/425 UART1 Config FS -iA6B.md",
     "Tasks and Events - Misc/Summer Classes.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab.md",
-    "Tasks and Events - Misc/ASME x IEEE AutoCad Workshop.md",
-    "Untitled.base",
-    "Tasks and Events - Misc",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes.md",
-    "Theme Assets/Block Quote Texture.jpg",
-    "Theme Assets/Night Time Japan.jpeg",
-    "Tasks and Events - Misc/Respark Series.md",
-    "Theme Assets/Secondary Window.png",
-    "Theme Assets/Node Tree Texture.jpg",
-    "Imports/Pasted image 20260311120723.png",
-    "Imports/Pasted image 20260311121433.png",
-    "Theme Assets",
-    "Theme Assets",
-    "CSUN EE Bachelors Degree/ECE Courses",
-    "CSUN EE Bachelors Degree/ECE 511/Untitled",
-    "CSUN EE Bachelors Degree",
-    "Tasks and Events - Misc/Irvine hacks 2026",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/system_TM4C123.c.base@1.0.1",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/startup_TM4C123.s.base@1.0.0",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/startup_TM4C123.s",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/system_TM4C123.c",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/_Target_1/RTE_Components.h",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/_Target_1",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Primary Flight Controller VTOL.uvoptx",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE",
+    "Tasks and Events - Misc/MicroMouse CSUN IEEE.md",
+    "Tasks and Events - Misc/ITAC AR Reports.md",
+    "Tasks and Events - Misc/ECE Town hall notes.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Exam 2.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Dirty Notes.md",
+    "Imports/Pasted image 20260409102252.png",
+    "Imports/Pasted image 20260409095036.png",
+    "Imports/Pasted image 20260409092829.png",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 - Intro to Controls Systems.md",
+    "Tasks and Events - Misc/IEEE.md",
+    "Imports/Pasted image 20260405161210.png",
+    "Imports/Pasted image 20260405153406.png",
+    "Imports/Pasted image 20260405151102.png",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md",
+    "Imports/Pasted image 20260402172430.png",
+    "2026-04-02.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 351/ECE 351 Dirty Notes.md",
     "Untitled.canvas"
   ]
 }

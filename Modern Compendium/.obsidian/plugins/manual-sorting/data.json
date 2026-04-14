@@ -24,8 +24,8 @@
         "CSUN EE Bachelors Degree/ECE Courses/ECE.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 351",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 370",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 511"
       ],
@@ -58,7 +58,10 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425": {
       "children": [
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/System Architecture Drop Down.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Universal Asynchronous Receive Transmit (UART).md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW - Daniel Jeorge Adrayan.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 5.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Exp 4 Prelab - SPI.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Prelab - UART.md",
@@ -70,14 +73,77 @@
       ],
       "sortOrder": "custom"
     },
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller": {
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC": {
       "children": [
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md"
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Secondary Board"
       ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller/425 UART1 Config FS -iA6B.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Listings",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Objects",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/FS-iA6B-UART.cpp",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/main.cpp",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Primary Flight Controller VTOL.uvprojx",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Primary Flight Controller VTOL.uvoptx",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Primary Flight Controller VTOL.uvguix.Daniel J"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Listings": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/Objects": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/_Target_1",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/_Target_1": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/_Target_1/RTE_Components.h"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/startup_TM4C123.s",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/startup_TM4C123.s.base@1.0.0",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/system_TM4C123.c",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/system_TM4C123.c.base@1.0.1"
+      ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Secondary Board": {
+      "children": [],
       "sortOrder": "custom"
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 480": {
       "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Exam 2.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 - Intro to Controls Systems.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Dirty Notes.md"
       ],
@@ -92,6 +158,14 @@
     },
     "Imports": {
       "children": [
+        "Imports/Pasted image 20260413175244.png",
+        "Imports/Pasted image 20260413175106.png",
+        "Imports/Pasted image 20260409102252.png",
+        "Imports/Pasted image 20260409095036.png",
+        "Imports/Pasted image 20260409092829.png",
+        "Imports/Pasted image 20260405151102.png",
+        "Imports/Pasted image 20260405153406.png",
+        "Imports/Pasted image 20260405161210.png",
         "Imports/Pasted image 20260402170434.png",
         "Imports/Pasted image 20260402172430.png",
         "Imports/image 4.webp",
@@ -210,6 +284,7 @@
     },
     "Tasks and Events - Misc": {
       "children": [
+        "Tasks and Events - Misc/IEEE.md",
         "Tasks and Events - Misc/ECE Town hall notes.md",
         "Tasks and Events - Misc/Respark Series.md",
         "Tasks and Events - Misc/Industry Panel.md",
