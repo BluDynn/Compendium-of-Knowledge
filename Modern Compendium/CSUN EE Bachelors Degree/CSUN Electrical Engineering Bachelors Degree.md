@@ -1,3 +1,2 @@
-![[CSUN EE Bachelors Degree/ECE Courses/ECE| Electrical and Compute#]]
-
-Courses Attempted
+# Electrical Computer Engineering Courses
+![[Electrical Computer Engineering]]

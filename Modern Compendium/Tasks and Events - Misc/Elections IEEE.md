@@ -1,0 +1,4 @@
+# Com Elec Board (Commission On Election Board)
+## COM ELEC BOARD MEMBERS CANNOT RUN FOR ANY BOARD POSITIONS
+
+To ensure a fair election process there will be a board commissioned to run and protect the fair voting process of elections. This board will cover the extent of nominations, voting, and nominee check-in as well as day of election logistics. This board will take volunteers and is in current search of members, the only requirement to be a Com Elec Board member is an unbiased involvement to ensure a safe and fair election process. If you want to apply or know someone that would like to be involved please have them email ie.ee@my.csun.edu along with their student id and email.

@@ -7,6 +7,7 @@
         "2025-20260216T223447Z-1-001.zip",
         "Tasks and Events - Misc",
         "CSUN EE Bachelors Degree",
+        "Definitions",
         "Templates",
         "Imports"
       ],
@@ -21,11 +22,12 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses": {
       "children": [
-        "CSUN EE Bachelors Degree/ECE Courses/ECE.md",
+        "CSUN EE Bachelors Degree/ECE Courses/Electrical Computer Engineering.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 351",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 370",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 455",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 511"
       ],
@@ -33,6 +35,16 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review": {
       "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/w.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline 1.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes 1.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes PSPICE 1.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes LAB 1.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I 1.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/Design of the Multistage Amplifier 1.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes PSPICE.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes LAB.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/Design of the Multistage Amplifier.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes.md"
@@ -48,6 +60,7 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 370": {
       "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 anteanna.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 Lab 3 - Report.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Electromagnetics and Waves.md",
@@ -58,6 +71,10 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425": {
       "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Stepper Motor.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 7.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/PWM.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 6.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/System Architecture Drop Down.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Universal Asynchronous Receive Transmit (UART).md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC",
@@ -66,9 +83,9 @@
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Exp 4 Prelab - SPI.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Prelab - UART.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW 2.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Report 2 brain storm.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 - Microprocessor Systems.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Dirty Notes.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Report 2 brain storm.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Exp2 Prelab.md"
       ],
       "sortOrder": "custom"
@@ -141,6 +158,14 @@
       "children": [],
       "sortOrder": "custom"
     },
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 455": {
+      "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 455/Complex Conjugate.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 455/Complex Numbers.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Dirty Notes.md"
+      ],
+      "sortOrder": "custom"
+    },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 480": {
       "children": [
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Exam 2.md",
@@ -156,8 +181,57 @@
       ],
       "sortOrder": "custom"
     },
+    "Definitions": {
+      "children": [
+        "Definitions/Definitions.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Imports": {
       "children": [
+        "Imports/L1-ComplexVariables.pdf",
+        "Imports/Pasted image 20260527133216.png",
+        "Imports/Pasted image 20260527135924.png",
+        "Imports/Pasted image 20260527140002.png",
+        "Imports/Pasted image 20260527140038.png",
+        "Imports/Pasted image 20260527140054.png",
+        "Imports/Pasted image 20260527140108.png",
+        "Imports/Pasted image 20260527140415.png",
+        "Imports/Pasted image 20260527140537.png",
+        "Imports/Pasted image 20260527140732.png",
+        "Imports/Pasted image 20260527140741.png",
+        "Imports/Pasted image 20260527140828.png",
+        "Imports/Pasted image 20260527140857.png",
+        "Imports/Pasted image 20260527140904.png",
+        "Imports/Pasted image 20260527141034.png",
+        "Imports/Pasted image 20260527141332.png",
+        "Imports/Pasted image 20260527141601.png",
+        "Imports/Pasted image 20260527144019.png",
+        "Imports/Pasted image 20260527144031.png",
+        "Imports/Pasted image 20260527150437.png",
+        "Imports/Pasted image 20260527150503.png",
+        "Imports/Pasted image 20260527153717.png",
+        "Imports/Pasted image 20260527153754.png",
+        "Imports/l13_12.png",
+        "Imports/l13_11.png",
+        "Imports/l13_10.png",
+        "Imports/l13_9.png",
+        "Imports/l13_8.png",
+        "Imports/l13_7.png",
+        "Imports/l13_6.png",
+        "Imports/l13_5.png",
+        "Imports/l13_4.png",
+        "Imports/l13_3.png",
+        "Imports/l13_2.png",
+        "Imports/l13_1.png",
+        "Imports/l13_0.png",
+        "Imports/Pasted image 20260506163642.png",
+        "Imports/Pasted image 20260506163133.png",
+        "Imports/Pasted image 20260506162702.png",
+        "Imports/Pasted image 20260506161540.png",
+        "Imports/Pasted image 20260506161127.png",
+        "Imports/Pasted image 20260429181928.png",
+        "Imports/Pasted image 20260414102406.png",
         "Imports/Pasted image 20260413175244.png",
         "Imports/Pasted image 20260413175106.png",
         "Imports/Pasted image 20260409102252.png",
@@ -284,6 +358,8 @@
     },
     "Tasks and Events - Misc": {
       "children": [
+        "Tasks and Events - Misc/IDEA Hacks.md",
+        "Tasks and Events - Misc/Elections IEEE.md",
         "Tasks and Events - Misc/IEEE.md",
         "Tasks and Events - Misc/ECE Town hall notes.md",
         "Tasks and Events - Misc/Respark Series.md",

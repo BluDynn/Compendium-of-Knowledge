@@ -296,8 +296,47 @@
 > [!info]- WTIMER (optional)
 > Wide timers (larger range)
 
-> [!info]- PWM (optional)
-> Signal generation (duty cycle control)
+> [!info]- PWMx
+> Pulse Width Modulation
+> Each PWMx is its own module (PWM0–PWM1)
+>
+> >[!abstract]- CTL - Control Register
+>> Controls PWM module operation  
+> >- enable / disable PWM generator behavior  
+>> - synchronization behavior  
+>
+> >[!abstract]- ENABLE - Output Enable Register
+>> Enables PWM outputs to appear on pins  
+>> - each bit corresponds to a PWM output  
+>
+>> [!abstract]- LOAD - Load Register
+>> Sets the PWM period  
+>> - determines how long one full PWM cycle is  
+>
+>> [!abstract]- CMPA / CMPB - Comparator Registers
+>> Sets compare values for duty cycle control  
+>> - compare against counter to decide output switching point  
+>
+>> [!abstract]- GENA / GENB - Generator Control Registers
+>> Defines what happens to the output on events  
+>> - counter = LOAD  
+>> - counter = CMPA / CMPB  
+>> - count up / count down  
+>
+>> [!abstract]- COUNT - Counter Register
+>> Shows current counter value  
+>
+>> [!abstract]- INTEN / RIS / ISC - Interrupt Registers >(optional)
+>> Handles PWM interrupt enable, status, and clear  
+>
+> >[!abstract]- SYNC - Synchronization Register (optional)
+> >Synchronizes multiple PWM generators  
+>
+> >[!abstract]- FAULT - Fault Control / Status (optional)
+> >Handles shutdown behavior during fault conditions  
+>
+> >[!abstract]- DBCTL / DBRISE / DBFALL - Dead-Band Registers (optional)
+> >Used for complementary PWM outputs with dead time inserted  
 
 > [!info]- QEI (optional)
 > Encoder interface (position/speed)

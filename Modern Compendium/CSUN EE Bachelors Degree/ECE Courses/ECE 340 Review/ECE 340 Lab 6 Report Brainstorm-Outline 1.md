@@ -1,4 +1,4 @@
-[[CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I]]
+[[ECE 340 - Electronics I 1]]
 Intro 
 - hook: 
 - use cases 

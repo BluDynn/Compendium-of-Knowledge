@@ -28,7 +28,7 @@ Lets get started on what this is, how to use it, and expectations of what should
 ## 1. Formatting 
 To ensure easy structured access its important to have a designated system through out the compendium. To do so the implementation of Dirty and Clean Notes will be implemented. Dirty Notes and Clean Notes should be tagged with the respective #Dirty and #Clean tags as well as Links linking the dirty and the clean pages and concepts to each other. After a #Dirty section has been cleaned switch the tag into the #Cleaned tag and insert the link to the clean page
 
-### Dirty Notes
+### Dirty Notes // Needs Rework
 Dirty notes will consist of the raw lecture notes with annotations and thoughts regarding the subject, this can be unformatted equations, solution pathways written with notion or even raw mind dumps meant to be sorted out later. 
 
 > [!error] Example
@@ -65,3 +65,59 @@ Through the use of the tab book marks, users are able to utilize the book mark f
 
 ## 4. Page Organization 
 To maintain an easy search of information each page must fit under specific "umbrellas." In previous iterations the idea of organizing pages in order of what term was taken proved to be messy. To potentially solve the mess, pages should be classified under their respective discipline and Degree. Ex: ECE, MATH, M E, MSE. Each with their respective page with links and Back links to each subject. Branching out to their respective class/topics (ECE 350 -  Signals and Systems, ECE 320 - Theoretical Digital Design, M E 376 - Heat Transfer). Each with their own links and back links and s on and so forth. 
+
+# 5. Quick Latex Cheat Sheet
+## Cheatsheet
+
+|Trigger|Replacement|
+|---|---|
+|mk|$ $|
+|dm|$$  <br>  <br>$$|
+|sr|^{2}|
+|cb|^{3}|
+|rd|^{ }|
+|_|_{ }|
+|sq|\sqrt{ }|
+|x/y Tab|\frac{x}{y}|
+|//|\frac{ }{ }|
+|"|\text{ }|
+|text|\text{ }|
+|x1|x_{1}|
+|x,.|\mathbf{x}|
+|x.,|\mathbf{x}|
+|xdot|\dot{x}|
+|xhat|\hat{x}|
+|xbar|\bar{x}|
+|xvec|\vec{x}|
+|xtilde|\tilde{x}|
+|xund|\underline{x}|
+|ee|e^{ }|
+|invs|^{-1}|
+
+When running a snippet that **moves the cursor inside brackets {}, press Tab to exit the brackets**.
+
+### Greek letters
+
+|Trigger|Replacement|Trigger|Replacement|
+|---|---|---|---|
+|@a|\alpha|eta|\eta|
+|@b|\beta|mu|\mu|
+|@g|\gamma|nu|\nu|
+|@G|\Gamma|xi|\xi|
+|@d|\delta|Xi|\Xi|
+|@D|\Delta|pi|\pi|
+|@e|\epsilon|Pi|\Pi|
+|:e|\varepsilon|rho|\rho|
+|@z|\zeta|tau|\tau|
+|@t|\theta|phi|\phi|
+|@T|\Theta|Phi|\Phi|
+|@k|\kappa|chi|\chi|
+|@l|\lambda|psi|\psi|
+|@L|\Lambda|Psi|\Psi|
+|@s|\sigma|||
+|@S|\Sigma|||
+|@o|\omega|||
+|ome|\omega|||
+
+For Greek letters with short names (2-3 characters), just type their name,  
+e.g. "pi" → "\pi".

@@ -13,3 +13,25 @@ Now to address the rumors revolving the club room. From the start I have envisio
 I would like to state that I appreciate all the members of our organization that has been engaged and involved in contributing to the community. As from the start, CSUN IEEE was and will continue to be a community that I value and would like to continue contributing back to. I hope with the time left in the semester I am able to continue to lead the growth in a positive direction. 
 
 Thank you. 
+
+Mox
+ Rooms: 
+ East Conference Center - 
+ Burbank Room - 24 X
+ Glendale Room - 18 X
+ La Crescenta - 24 X 
+ Panorama City - 50 
+ Tujunga - 50 
+
+Northridge Center Building - 
+Granada Room - 50 
+Lake Balboa Room - 56 
+North Valley Room - 56 
+Reseda Room - 50 
+South Valley Room - max cap 56 - multi set up 
+USU Theatre - max cap 224 - probs ideal but idk only theater set up 
+
+Sol Center - N/A
+
+
+
