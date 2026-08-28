@@ -1,0 +1,2 @@
+# Executive Board Meeting 
+Hello @ExecutiveBoard I hope everyone has had a great summer break/ summer session, to get the ball rolling early we should come together as an executive board to discuss expectations, goals, and ideas for the upcoming year. If I could get everyone's availability for the next upcoming weeks that would be great! We could host this meeting virtually to make it easier for everyone to attend.

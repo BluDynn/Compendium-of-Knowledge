@@ -2,6 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "ECE 480 Final Concepts to cover.md",
+        "_AI Trash",
         "Compendium Of Knowledge.md",
         "Theme Assets",
         "2025-20260216T223447Z-1-001.zip",
@@ -10,6 +12,18 @@
         "Definitions",
         "Templates",
         "Imports"
+      ],
+      "sortOrder": "custom"
+    },
+    "_AI Trash": {
+      "children": [
+        "_AI Trash/Design of the Multistage Amplifier 1.md",
+        "_AI Trash/ECE 340 - Electronics I 1.md",
+        "_AI Trash/ECE 340 - Lab 13 notes LAB 1.md",
+        "_AI Trash/ECE 340 - Lab 13 notes PSPICE 1.md",
+        "_AI Trash/ECE 340 Dirty Notes 1.md",
+        "_AI Trash/ECE 340 Lab 6 Report Brainstorm-Outline 1.md",
+        "_AI Trash/w.md"
       ],
       "sortOrder": "custom"
     },
@@ -35,15 +49,8 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review": {
       "children": [
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/w.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline 1.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes 1.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes PSPICE 1.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes LAB 1.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I 1.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/Design of the Multistage Amplifier 1.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 Multistage Amplifier Report.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes PSPICE.md",
-        "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes LAB.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/Design of the Multistage Amplifier.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Electronics I.md",
@@ -160,6 +167,8 @@
     },
     "CSUN EE Bachelors Degree/ECE Courses/ECE 455": {
       "children": [
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Cheat Sheet.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Clean Notes.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 455/Complex Conjugate.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 455/Complex Numbers.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Dirty Notes.md"
@@ -189,6 +198,9 @@
     },
     "Imports": {
       "children": [
+        "Imports/L2-ComplexIntegration.pdf",
+        "Imports/Pasted image 20260603141406.png",
+        "Imports/Pasted image 20260603142534.png",
         "Imports/L1-ComplexVariables.pdf",
         "Imports/Pasted image 20260527133216.png",
         "Imports/Pasted image 20260527135924.png",
@@ -358,6 +370,9 @@
     },
     "Tasks and Events - Misc": {
       "children": [
+        "Tasks and Events - Misc/Burn.md",
+        "Tasks and Events - Misc/AAS 347 Essays and Discussion.md",
+        "Tasks and Events - Misc/Discord Formatting.md",
         "Tasks and Events - Misc/IDEA Hacks.md",
         "Tasks and Events - Misc/Elections IEEE.md",
         "Tasks and Events - Misc/IEEE.md",

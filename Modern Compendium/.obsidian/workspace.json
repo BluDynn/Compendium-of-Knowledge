@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a567d06533e530a5",
+        "id": "a71b5ce6267a26ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e747dd569c9be979",
+            "id": "d4077be3398a28ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Dirty Notes.md",
+                "file": "Compendium Of Knowledge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECE 455 - Dirty Notes"
+              "title": "Compendium Of Knowledge"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "custom",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -100,34 +102,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Dirty Notes.md",
+                "file": "Compendium Of Knowledge.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ECE 455 - Dirty Notes"
-            }
-          },
-          {
-            "id": "a6d9c9d348e72af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium Of Knowledge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compendium Of Knowledge"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 275.5
   },
   "right": {
     "id": "cfbb0ee88428e1d4",
@@ -247,56 +235,58 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
+      "publish:Publish changes...": false,
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e747dd569c9be979",
+  "active": "d4077be3398a28ae",
   "lastOpenFiles": [
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Dirty Notes 1.md",
+    "ECE 480 Final Concepts to cover.md",
+    "Tasks and Events - Misc/AAS 347 Essays and Discussion.md",
+    "Tasks and Events - Misc/Burn.md",
+    "Compendium Of Knowledge.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Clean Notes.md",
+    "Tasks and Events - Misc/Discord Formatting.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Dirty Notes.md",
+    "Imports/L2-ComplexIntegration.pdf",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Dirty Notes.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 370/ECE 370 - Electromagnetics and Waves.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 Prelab - UART.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW - Daniel Jeorge Adrayan.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Universal Asynchronous Receive Transmit (UART).md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/PWM.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 - Intro to Controls Systems.md",
+    "Imports/L1-ComplexVariables.pdf",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Cheat Sheet.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 455/Complex Conjugate.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 455/Complex Numbers.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Dirty Notes.md",
+    "_AI Trash/ECE 340 Dirty Notes 1.md",
+    "_AI Trash/w.md",
+    "_AI Trash/ECE 340 Lab 6 Report Brainstorm-Outline 1.md",
+    "_AI Trash/ECE 340 - Lab 13 notes PSPICE 1.md",
+    "_AI Trash/ECE 340 - Lab 13 notes LAB 1.md",
+    "_AI Trash/ECE 340 - Electronics I 1.md",
+    "_AI Trash/Design of the Multistage Amplifier 1.md",
+    "_AI Trash",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 Multistage Amplifier Report.md",
+    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/_trash",
+    "Imports/Pasted image 20260603142534.png",
+    "Imports/Pasted image 20260603141406.png",
     "Theme Assets/Block Quote Texture.jpg",
     "Theme Assets/Night Time Japan.jpeg",
-    "Tasks and Events - Misc/IDEA Hacks.md",
-    "Tasks and Events - Misc/Elections IEEE.md",
     "Theme Assets/Node Tree Texture.jpg",
     "Theme Assets/Secondary Window.png",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 455/Complex Conjugate.md",
-    "Compendium Of Knowledge.md",
-    "Imports/L1-ComplexVariables.pdf",
     "Imports/Pasted image 20260527153754.png",
     "Imports/Pasted image 20260527153717.png",
     "Imports/Pasted image 20260527150503.png",
     "Imports/Pasted image 20260527150437.png",
-    "Imports/Pasted image 20260527144031.png",
-    "Imports/Pasted image 20260527144019.png",
-    "Definitions/Definitions.md",
-    "Templates/Concept Definition.md",
-    "Templates/Definition Page Template.md",
-    "Templates/Equation Definition.md",
-    "Untitled.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/w.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Lab 6 Report Brainstorm-Outline 1.md",
-    "CSUN EE Bachelors Degree/ECE Courses/Electrical Computer Engineering.md",
-    "CSUN EE Bachelors Degree/CSUN Electrical Engineering Bachelors Degree.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 455",
     "Definitions",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller/425 UART1 Config FS -iA6B.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Autonomous VTOL Flight Controller/ECE 425 Autonomous VTOL Flight Controller.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425L Prelab 5.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/ECE 425 HW - Daniel Jeorge Adrayan.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Stepper Motor.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/Universal Asynchronous Receive Transmit (UART).md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes LAB.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes PSPICE.md",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 notes PSPICE 1.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 Review 1",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/system_TM4C123.c.base@1.0.1",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/startup_TM4C123.s.base@1.0.0",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/startup_TM4C123.s",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM/system_TM4C123.c",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/_Target_1/RTE_Components.h",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 425/TM4C VTOL FC/Primary Board/RTE/Device/TM4C123GH6PM",
     "Untitled.canvas"
   ]
 }
