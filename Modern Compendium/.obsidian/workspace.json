@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Compendium Of Knowledge"
             }
+          },
+          {
+            "id": "7bbfa2ce2935f310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks and Events - Misc/MSE 304 - DIrty NOtes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MSE 304 - DIrty NOtes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,12 +254,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d4077be3398a28ae",
+  "active": "d801f12e7e80ceb3",
   "lastOpenFiles": [
+    "Tasks and Events - Misc/MSE 304 - DIrty NOtes.md",
+    "Tasks and Events - Misc/email to prof Sauer.md",
+    "Compendium Of Knowledge.md",
     "ECE 480 Final Concepts to cover.md",
     "Tasks and Events - Misc/AAS 347 Essays and Discussion.md",
     "Tasks and Events - Misc/Burn.md",
-    "Compendium Of Knowledge.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Clean Notes.md",
     "Tasks and Events - Misc/Discord Formatting.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 455/ECE 455 - Dirty Notes.md",
@@ -267,9 +284,7 @@
     "_AI Trash/ECE 340 - Lab 13 notes PSPICE 1.md",
     "_AI Trash/ECE 340 - Lab 13 notes LAB 1.md",
     "_AI Trash/ECE 340 - Electronics I 1.md",
-    "_AI Trash/Design of the Multistage Amplifier 1.md",
     "_AI Trash",
-    "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/ECE 340 - Lab 13 Multistage Amplifier Report.md",
     "CSUN EE Bachelors Degree/ECE Courses/ECE 340 Review/_trash",
     "Imports/Pasted image 20260603142534.png",
     "Imports/Pasted image 20260603141406.png",
