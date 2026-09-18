@@ -3,10 +3,8 @@
     "/": {
       "children": [
         "Compendium Of Knowledge.md",
-        "2025-20260216T223447Z-1-001.zip",
         "Tasks and Events - Misc",
         "CSUN EE Bachelors Degree",
-        "Definitions",
         "Templates",
         "Imports"
       ],
@@ -177,10 +175,8 @@
       ],
       "sortOrder": "custom"
     },
-    "Definitions": {
-      "children": [
-        "Definitions/Definitions.md"
-      ],
+    "CSUN EE Bachelors Degree/MSE Courses": {
+      "children": [],
       "sortOrder": "custom"
     },
     "Imports": {
@@ -371,6 +367,7 @@
         "Tasks and Events - Misc/Industry Panel.md",
         "Tasks and Events - Misc/Irvine hacks 2026",
         "Tasks and Events - Misc/Summer Classes.md",
+        "Tasks and Events - Misc/Random Ahh Readme File.md",
         "Tasks and Events - Misc/ASME x IEEE AutoCad Workshop.md",
         "Tasks and Events - Misc/Passion.md",
         "Tasks and Events - Misc/ITAC AR Reports.md",
@@ -396,10 +393,6 @@
         "Templates/Lecture Recap.md",
         "Templates/Prelecture Setup.md"
       ],
-      "sortOrder": "custom"
-    },
-    "CSUN EE Bachelors Degree/MSE Courses": {
-      "children": [],
       "sortOrder": "custom"
     }
   },
