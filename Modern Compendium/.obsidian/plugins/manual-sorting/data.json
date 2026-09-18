@@ -15,6 +15,7 @@
     "CSUN EE Bachelors Degree": {
       "children": [
         "CSUN EE Bachelors Degree/CSUN Electrical Engineering Bachelors Degree.md",
+        "CSUN EE Bachelors Degree/MSE Courses",
         "CSUN EE Bachelors Degree/ECE Courses"
       ],
       "sortOrder": "custom"
@@ -395,6 +396,10 @@
         "Templates/Lecture Recap.md",
         "Templates/Prelecture Setup.md"
       ],
+      "sortOrder": "custom"
+    },
+    "CSUN EE Bachelors Degree/MSE Courses": {
+      "children": [],
       "sortOrder": "custom"
     }
   },

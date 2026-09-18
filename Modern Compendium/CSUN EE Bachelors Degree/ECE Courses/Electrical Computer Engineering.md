@@ -1,5 +1,18 @@
 # Electrical and Computer Engineering Courses ()
 
+
+> [!tldr]- ECE 206 - Electronics I  
+> ![[ECE 206 - C programming for Electrical Engineers]]
+
+> [!tldr]- ECE 220 - Theroretical Digital Systems  
+> ![[ECE 220 - Theoretical Digital Systems]]
+
+> [!tldr]- ECE 240 - Circuit Analysis  
+> ![[ECE 240 - Circuit Analysis]]
+
+> [!tldr]- ECE 309 - Electronics I  
+> ![[ECE 309 - Electronics I]]
+
 > [!tldr]- ECE 340 - Electronics I  
 > ![[ECE 340 - Electronics I]]
 
