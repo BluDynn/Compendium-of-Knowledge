@@ -2,28 +2,13 @@
   "customOrder": {
     "/": {
       "children": [
-        "ECE 480 Final Concepts to cover.md",
-        "_AI Trash",
         "Compendium Of Knowledge.md",
-        "Theme Assets",
         "2025-20260216T223447Z-1-001.zip",
         "Tasks and Events - Misc",
         "CSUN EE Bachelors Degree",
         "Definitions",
         "Templates",
         "Imports"
-      ],
-      "sortOrder": "custom"
-    },
-    "_AI Trash": {
-      "children": [
-        "_AI Trash/Design of the Multistage Amplifier 1.md",
-        "_AI Trash/ECE 340 - Electronics I 1.md",
-        "_AI Trash/ECE 340 - Lab 13 notes LAB 1.md",
-        "_AI Trash/ECE 340 - Lab 13 notes PSPICE 1.md",
-        "_AI Trash/ECE 340 Dirty Notes 1.md",
-        "_AI Trash/ECE 340 Lab 6 Report Brainstorm-Outline 1.md",
-        "_AI Trash/w.md"
       ],
       "sortOrder": "custom"
     },
@@ -179,6 +164,7 @@
       "children": [
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Exam 2.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 - Intro to Controls Systems.md",
+        "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Final Concepts to cover.md",
         "CSUN EE Bachelors Degree/ECE Courses/ECE 480/ECE 480 Dirty Notes.md"
       ],
       "sortOrder": "custom"
@@ -370,6 +356,7 @@
     },
     "Tasks and Events - Misc": {
       "children": [
+        "Tasks and Events - Misc/Untitled.md",
         "Tasks and Events - Misc/MSE 304 - DIrty NOtes.md",
         "Tasks and Events - Misc/email to prof Sauer.md",
         "Tasks and Events - Misc/Burn.md",
@@ -407,15 +394,6 @@
         "Templates/Example Solution - Dirty.md",
         "Templates/Lecture Recap.md",
         "Templates/Prelecture Setup.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Theme Assets": {
-      "children": [
-        "Theme Assets/Secondary Window.png",
-        "Theme Assets/Node Tree Texture.jpg",
-        "Theme Assets/Block Quote Texture.jpg",
-        "Theme Assets/Night Time Japan.jpeg"
       ],
       "sortOrder": "custom"
     }
